@@ -5,8 +5,6 @@ This is having all details of basic experiments around Kubernetes.
 2. Creating/Deleting Pod - [Doc](create-delete-pods.md)
 3. Running Pods in Kubernetes Cluster - [Doc](running-pods-in-cluster.md)
 
-# Setting Up a Kubernetes Cluster
-## All Steps needed with comments
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
